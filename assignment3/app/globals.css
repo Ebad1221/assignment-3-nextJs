@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  background-color: aqua;
+  justify-content: center;
+};
+.main{
+  background-color: aqua;
+  justify-content: center;
+};
+
+
+
+
+
+
+
